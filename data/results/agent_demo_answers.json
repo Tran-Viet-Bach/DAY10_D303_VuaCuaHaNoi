@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Can you summarize the paper titled 'SafeRAG: A Large-Language-Model-Based Multistage Retrieval-Augmented Framework for Oil and Gas Safety Report Generation'?",
+    "answer": "The paper \"SafeRAG: A Large-Language-Model-Based Multistage Retrieval-Augmented Framework for Oil and Gas Safety Report Generation\" proposes a framework called SafeRAG that uses large language models to generate safety reports in high-risk industrial settings. The framework has three main components:\n\n1. Entity-centric approach: This component prompts the LLMs to internally generate domain-specific knowledge.\n2. Hierarchical retrieval of external regulations: This component performs a hierarchical retrieval of external regulations relevant to the accident at topic, concept, and context levels.\n3. Prompt engineering: This component integrates internal and external knowledge to obtain well-structured reports.\n\nThe authors evaluate their approach using a dataset of 10,818 accident-description/report pairs collected from real-world industry reports. The results show that SafeRAG substantially outperforms baseline LLMs on metrics such as BERTScore and BARTScore."
+  },
+  {
+    "question": "Can you summarize the paper titled 'JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework for Diagnostic Support in Jawbone Lesions: Development and Technical Validation Study'?",
+    "answer": "The paper \"JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework for Diagnostic Support in Jawbone Lesions: Development and Technical Validation Study\" presents a novel framework called JADE-Plus, which is designed to aid in the diagnosis of jawbone lesions. The framework integrates multiple modalities, including vision-language models, knowledge-grounded retrieval-augmented generation modules, and agentic verification loops.\n\nThe study evaluates the performance of JADE-Plus using 40 representative cases and compares it with other baseline systems, such as JADE, GPT-5.4, GPT-5.4 VLM, and ORAD. The results show that JADE-Plus achieves the highest diagnostic accuracy, with a Top-1 accuracy of 90% (36/40; 95% CI 76\u201397%) and a Top-3 accuracy of 100%. The study also demonstrates that JADE-Plus outperforms other models in terms of reproducibility and response time.\n\nOverall, the paper suggests that multimodal agentic retrieval-augmented generation frameworks like JADE-Plus can be effective tools for diagnostic support in jawbone lesion assessment."
+  },
+  {
+    "question": "Who authored the paper titled 'Retrieval-Augmented Large-Language-Model-Based Time-Series Forecasting for Cross-Market Equity Analysis'?",
+    "answer": "The authors of the paper titled 'Retrieval-Augmented Large-Language-Model-Based Time-Series Forecasting for Cross-Market Equity Analysis' are Novanto Yudistira and Yanuar Putra Kharisma Adhiyasa."
+  }
+]
