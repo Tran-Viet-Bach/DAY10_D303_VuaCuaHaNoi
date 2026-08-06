@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "samples": 12,
   "retrieval_hit_rate": 1.0,
   "mean_token_f1": 1.0,
@@ -7,4 +8,15 @@
   "ragas": {
     "skipped": "Set RUN_RAGAS=1 to enable the slower Ragas pass."
   }
+=======
+  "samples": 8,
+  "retrieval_hit_rate": 1.0,
+  "mean_token_f1": 1.0,
+  "judge_accuracy": 0.75,
+  "mean_judge_score": 4.75,
+  "ragas": {
+    "skipped": "Set RUN_RAGAS=1 to enable the slower Ragas pass."
+  },
+  "judge_backend": "ollama"
+>>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
 }

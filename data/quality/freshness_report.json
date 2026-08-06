@@ -2,6 +2,7 @@
   "latest_published": "2026-08-01",
   "oldest_published": "2026-02-12",
   "stale_rows": 0,
+<<<<<<< HEAD
   "total_rows": 23,
   "is_fresh": true,
   "threshold_days": 180,
@@ -9,4 +10,8 @@
   "oldest_age_days": 175,
   "stale_ratio": 0.0,
   "stale_paper_ids": []
+=======
+  "total_rows": 24,
+  "is_fresh": true
+>>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
 }
