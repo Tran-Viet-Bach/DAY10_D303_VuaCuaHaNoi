@@ -4,11 +4,7 @@
   "message-version": "1.0.0",
   "message": {
     "facets": {},
-<<<<<<< HEAD
-    "total-results": 100907,
-=======
     "total-results": 100916,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
     "items": [
       {
         "indexed": {
@@ -20,11 +16,6 @@
             ]
           ],
           "date-time": "2026-06-17T08:52:47Z",
-<<<<<<< HEAD
-          "timestamp": 1781686367631
-        },
-        "publisher": "Publishing house Pegas",
-=======
           "timestamp": 1781686367631,
           "version": "3.54.5"
         },
@@ -35,7 +26,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<jats:p>\u0412 \u0441\u0442\u0430\u0442\u044c\u0435 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0435\u0439 \u0441\u043d\u0438\u0436\u0435\u043d\u0438\u044f \u0440\u0438\u0441\u043a\u043e\u0432 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f LLM (Large Language Model)  \u0432 \u0441\u0444\u0435\u0440\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0439 \u043c\u043e\u043b\u043e\u0447\u043d\u043e\u0439 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043f\u043e\u0434\u0445\u043e\u0434\u0430 RAG (Retrieval-Augmented Generation) \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445  \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445. \u0420\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u044b \u0440\u0438\u0441\u043a\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f LLM \u0432 \u0441\u0444\u0435\u0440\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0439 \u043c\u043e\u043b\u043e\u0447\u043d\u043e\u0439 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438. \u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u044b \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0438 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f LLM+RAG \u0432 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u043c\u043e\u043b\u043e\u0447\u043d\u043e\u0439 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438\u00a0\u2013 \u0441 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430, \u0437\u0430\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445, \u0440\u0435\u0448\u0430\u0435\u043c\u044b\u0445 \u0440\u0438\u0441\u043a\u043e\u0432 \u0438 \u0434\u043e\u0441\u0442\u0438\u0433\u043d\u0443\u0442\u044b\u0445 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u0432. \u041f\u043e\u043a\u0430\u0437\u0430\u043d\u043e, \u0447\u0442\u043e \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f RAG \u0441 LLM \u0442\u0440\u0430\u043d\u0441\u0444\u043e\u0440\u043c\u0438\u0440\u0443\u0435\u0442 \u0433\u0435\u043d\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0443\u044e \u043c\u043e\u0434\u0435\u043b\u044c \u0438\u0437 \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430 \u0432 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u0439\u00a0\u2013 \u043e\u0442 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433\u0430 \u0443\u0433\u0440\u043e\u0437 \u0444\u0430\u043b\u044c\u0441\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 \u0434\u043e \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u0435\u0439 \u0441 \u0443\u0447\u0435\u0442\u043e\u043c \u043e\u0442\u0440\u0430\u0441\u043b\u0435\u0432\u043e\u0439 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0438.</jats:p>\n                  <jats:p>The article examines the features of reducing the risks of using LLM (Large Language Model)  in the field of economic security of dairy industry enterprises based on the RAG (Retrieval-Augmented Generation) approach in modern conditions. The risks of using LLM in the field of economic security of dairy industry enterprises are considered. The scenarios of LLM+RAG application in the Russian dairy industry are analyzed in detail, describing the process, the data involved, the risks to be solved and the results achieved. It is shown that as a result, the integration of RAG with LLM transforms the generative model from a potentially dangerous tool into a reliable decision support mechanism, from monitoring fraud threats to forecasting economic indicators based on industry specifics.</jats:p>",
         "DOI": "10.47576/2949-1894.2026.7.7.023",
         "type": "journal-article",
@@ -50,11 +40,6 @@
           "date-time": "2026-06-17T07:51:54Z",
           "timestamp": 1781682714000
         },
-<<<<<<< HEAD
-        "title": [
-          "\u0421\u043d\u0438\u0436\u0435\u043d\u0438\u0435 \u0440\u0438\u0441\u043a\u043e\u0432 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f LLM (Large Language Model) \u0432 \u0441\u0444\u0435\u0440\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0439 \u043c\u043e\u043b\u043e\u0447\u043d\u043e\u0439 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043f\u043e\u0434\u0445\u043e\u0434\u0430 RAG (Retrieval-Augmented Generation)"
-        ],
-=======
         "page": "192-201",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -62,7 +47,6 @@
           "\u0421\u043d\u0438\u0436\u0435\u043d\u0438\u0435 \u0440\u0438\u0441\u043a\u043e\u0432 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f LLM (Large Language Model) \u0432 \u0441\u0444\u0435\u0440\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0439 \u043c\u043e\u043b\u043e\u0447\u043d\u043e\u0439 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043f\u043e\u0434\u0445\u043e\u0434\u0430 RAG (Retrieval-Augmented Generation)"
         ],
         "prefix": "10.47576",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "\u0418.\u0412.",
@@ -97,10 +81,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "27371",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -110,11 +91,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "container-title": [
-          "Innovative economy: information, analytics, forecasts"
-        ],
-=======
         "reference": [
           {
             "key": "1",
@@ -133,7 +109,6 @@
           "Innovative economy: information, analytics, forecasts"
         ],
         "language": "ru",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "deposited": {
           "date-parts": [
             [
@@ -145,16 +120,12 @@
           "date-time": "2026-06-17T08:00:36Z",
           "timestamp": 1781683236000
         },
-<<<<<<< HEAD
-        "score": 39.924423,
-=======
         "score": 39.928677,
         "resource": {
           "primary": {
             "URL": "https://ieiap.ru/journal"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "subtitle": [
           "Reducing the risks of using LLM (Large Language Model) in the field of economic security of dairy enterprises based on the RAG (Retrieval-Augmented Generation) approach"
         ],
@@ -167,9 +138,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.47576/2949-1894.2026.7.7.023",
-=======
         "references-count": 3,
         "journal-issue": {
           "issue": "7",
@@ -193,7 +161,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -214,12 +181,8 @@
             ]
           ],
           "date-time": "2026-06-12T17:00:30Z",
-<<<<<<< HEAD
-          "timestamp": 1781283630303
-=======
           "timestamp": 1781283630303,
           "version": "3.54.1"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         },
         "posted": {
           "date-parts": [
@@ -230,9 +193,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-=======
         "reference-count": 0,
         "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
         "license": [
@@ -257,7 +217,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<jats:p>Retrieval-Augmented Generation (RAG) has emerged as a powerful paradigm for combining large language models with external knowledge sources to produce accurate, context-aware, and verifiable outputs. In this survey, we focus on an advanced instantiation of this paradigm, referred to as Deep RAG, which integrates reasoning, memory, and multi-step planning into end-to-end research workflows. We provide a structured overview of Deep RAG systems, covering key components such as query planning, information retrieval, memory management, and answer generation, as well as practical optimization techniques including supervised fine-tuning, iterative self-evolving, and agentic reinforcement learning. We analyze different planning strategies, adaptive retrieval mechanisms, conflict resolution methods, and multimodal synthesis, highlighting both their strengths and limitations. By categorizing approaches according to workflow types, reasoning strategies, and optimization paradigms, we clarify the current landscape and identify open challenges for evaluation, scalability, and multimodal reasoning. This survey aims to provide a comprehensive roadmap for designing flexible, reliable, and intelligent Deep RAG systems capable of performing complex, real-world research tasks with minimal human supervision.</jats:p>",
         "DOI": "10.36227/techrxiv.177272838.89432844/v1",
         "type": "posted-content",
@@ -272,18 +231,12 @@
           "date-time": "2026-03-05T16:33:10Z",
           "timestamp": 1772728390000
         },
-<<<<<<< HEAD
-        "title": [
-          "A Survey of (Deep RAG) Deep Retrieval Augmented Generation and Reasoning in Large Language Models"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
           "A Survey of (Deep RAG) Deep Retrieval Augmented Generation and Reasoning in Large Language Models"
         ],
         "prefix": "10.36227",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0000-0002-3758-4041",
@@ -304,10 +257,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "263",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177272838.89432844/v1",
@@ -327,16 +277,12 @@
           "date-time": "2026-06-12T16:31:45Z",
           "timestamp": 1781281905000
         },
-<<<<<<< HEAD
-        "score": 38.194195,
-=======
         "score": 38.166096,
         "resource": {
           "primary": {
             "URL": "https://www.techrxiv.org/doi/full/10.36227/techrxiv.177272838.89432844/v1"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -346,10 +292,7 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 0,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.36227/techrxiv.177272838.89432844/v1",
         "published": {
           "date-parts": [
@@ -359,12 +302,8 @@
               5
             ]
           ]
-<<<<<<< HEAD
-        }
-=======
         },
         "subtype": "preprint"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
       },
       {
         "indexed": {
@@ -376,11 +315,6 @@
             ]
           ],
           "date-time": "2026-07-17T02:04:13Z",
-<<<<<<< HEAD
-          "timestamp": 1784253853084
-        },
-        "publisher": "Institute of Advanced Technology and Green Innovation LLC",
-=======
           "timestamp": 1784253853084,
           "version": "3.55.0"
         },
@@ -408,7 +342,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "short-container-title": [
           "JAIAA"
         ],
@@ -426,11 +359,6 @@
           "date-time": "2026-07-17T01:44:04Z",
           "timestamp": 1784252644000
         },
-<<<<<<< HEAD
-        "title": [
-          "The Age of Autonomous Agents: A Bibliometric Review of Agentic AI Architectures, Applications, and Emerging Challenges"
-        ],
-=======
         "page": "32-46",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -438,7 +366,6 @@
           "The Age of Autonomous Agents: A Bibliometric Review of Agentic AI Architectures, Applications, and Emerging Challenges"
         ],
         "prefix": "10.63646",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Ben",
@@ -477,10 +404,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "53035",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -518,16 +442,12 @@
           "date-time": "2026-07-17T01:44:05Z",
           "timestamp": 1784252645000
         },
-<<<<<<< HEAD
-        "score": 37.589706,
-=======
         "score": 37.594772,
         "resource": {
           "primary": {
             "URL": "https://inatgi.net/index.php/jaiaa/article/view/806"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "subtitle": [
           "Large Language Models, Agentic AI, Multi-Agent Systems, AI Agents, Generative AI, Retrieval-Augmented Generation, Bibliometric Analysis"
         ],
@@ -540,9 +460,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.63646/kpqm1958",
-=======
         "references-count": 0,
         "URL": "https://doi.org/10.63646/kpqm1958",
         "ISSN": [
@@ -554,7 +471,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -575,12 +491,8 @@
             ]
           ],
           "date-time": "2026-07-30T14:22:32Z",
-<<<<<<< HEAD
-          "timestamp": 1785421352461
-=======
           "timestamp": 1785421352461,
           "version": "3.56.0"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         },
         "posted": {
           "date-parts": [
@@ -592,9 +504,6 @@
           ]
         },
         "group-title": "Computer Science and Mathematics",
-<<<<<<< HEAD
-        "publisher": "MDPI AG",
-=======
         "reference-count": 0,
         "publisher": "MDPI AG",
         "license": [
@@ -628,7 +537,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<jats:p>This study investigates a method that integrates retrieval-augmented mechanisms into large language model agents for scientific literature review generation. The approach addresses the limitations of traditional review models that rely on parametric knowledge with insufficient timeliness and limited coverage. Incorporating external document retrieval and dynamic information fusion into the generation process enhances the accuracy and completeness of the output. The overall framework consists of query encoding, semantic retrieval, document filtering, knowledge fusion, language modeling, task planning, memory storage, and reinforcement optimization, forming a closed loop of retrieval, understanding, and generation. Relevant document fragments are first retrieved through semantic vector search to ensure comprehensive and reliable information sources. These external representations are then integrated with the internal embeddings of the language model through weighted fusion, which preserves fluency while maintaining factual grounding. The task planning module constrains logical flow and text structure, and reinforcement learning optimization further improves relevance and consistency. Comparative experiments on large-scale scientific literature datasets demonstrate that the method outperforms existing approaches on ROUGE, BLEU, METEOR, and diversity metrics, validating its effectiveness and practicality. The findings show that combining retrieval augmentation with agent architectures can significantly improve coverage, accuracy, and language quality in review generation, providing a feasible solution for knowledge organization in complex literature environments.</jats:p>",
         "DOI": "10.20944/preprints202604.0339.v1",
         "type": "posted-content",
@@ -643,18 +551,12 @@
           "date-time": "2026-04-07T00:32:22Z",
           "timestamp": 1775521942000
         },
-<<<<<<< HEAD
-        "title": [
-          "Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 4,
         "title": [
           "Retrieval-Augmented Large Language Model Agents for Automated Scientific Literature Review Generation"
         ],
         "prefix": "10.20944",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Ruotong",
@@ -729,10 +631,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "1968",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "deposited": {
           "date-parts": [
             [
@@ -744,16 +643,12 @@
           "date-time": "2026-04-07T00:32:52Z",
           "timestamp": 1775521972000
         },
-<<<<<<< HEAD
-        "score": 37.50366,
-=======
         "score": 37.503593,
         "resource": {
           "primary": {
             "URL": "https://www.preprints.org/manuscript/202604.0339/v1"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -763,10 +658,7 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 0,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.20944/preprints202604.0339.v1",
         "published": {
           "date-parts": [
@@ -776,8 +668,6 @@
               6
             ]
           ]
-<<<<<<< HEAD
-=======
         },
         "subtype": "preprint"
       },
@@ -922,7 +812,6 @@
               6
             ]
           ]
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         }
       },
       {
@@ -935,11 +824,6 @@
             ]
           ],
           "date-time": "2026-05-14T14:47:26Z",
-<<<<<<< HEAD
-          "timestamp": 1778770046894
-        },
-        "publisher": "MDPI AG",
-=======
           "timestamp": 1778770046894,
           "version": "3.51.4"
         },
@@ -982,7 +866,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "short-container-title": [
           "Applied Sciences"
         ],
@@ -1000,11 +883,6 @@
           "date-time": "2026-02-26T10:33:02Z",
           "timestamp": 1772101982000
         },
-<<<<<<< HEAD
-        "title": [
-          "Hybrid Retrieval-Augmented Generation: Semantic and Structural Integration for Large Language Model Reasoning"
-        ],
-=======
         "page": "2244",
         "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
         "source": "Crossref",
@@ -1014,7 +892,6 @@
         ],
         "prefix": "10.3390",
         "volume": "16",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0009-0003-9573-2916",
@@ -1053,10 +930,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "1968",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -1066,11 +940,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "container-title": [
-          "Applied Sciences"
-        ],
-=======
         "reference": [
           {
             "key": "ref_1",
@@ -1314,7 +1183,6 @@
           "Applied Sciences"
         ],
         "language": "en",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://www.mdpi.com/2076-3417/16/5/2244/pdf",
@@ -1334,16 +1202,12 @@
           "date-time": "2026-02-28T05:20:35Z",
           "timestamp": 1772256035000
         },
-<<<<<<< HEAD
-        "score": 36.65046,
-=======
         "score": 36.652897,
         "resource": {
           "primary": {
             "URL": "https://www.mdpi.com/2076-3417/16/5/2244"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -1353,112 +1217,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.3390/app16052244",
-        "published": {
-          "date-parts": [
-            [
-              2026,
-              2,
-              26
-            ]
-          ]
-        }
-      },
-      {
-        "indexed": {
-          "date-parts": [
-            [
-              2026,
-              5,
-              6
-            ]
-          ],
-          "date-time": "2026-05-06T17:13:30Z",
-          "timestamp": 1778087610972
-        },
-        "publisher": "Edtech Publishers (OPC) Private Limited",
-        "short-container-title": [
-          "ISJEM"
-        ],
-        "abstract": "<jats:p>Abstract - This work focuses on the two crucial bottlenecks in Retrieval-Augmented Generation (RAG): high inference latency and expensive computation cost. RAG enhances the factual correctness of Large Language Models (LLMs) by utilizing external knowledge sources; However, the auto-To achieve a good recall, the system applies a two-way retrieval mechanism:\n\nDense retrieval: This module uses BAAI/bge-small-en-v1.5 to create a 384-dimensional embedding space, where queries and documents are mapped. The embeddings are stored in a FAISS IndexFlatL2.\nSparse retrieval: This module uses TF-IDF vectorization to capture an exact keyword match.\nReranking: A simple heuristic mechanism of matching substrings of the query terms in the documents selected to perform the final step of ranking them for prompt\n\nintroduce a novel speculative RAG framework that combines hybrid retrieval with speculative decoding. Our framework employs hybrid dense vector search (BGE-small) and sparse keyword search (TF-IDF) for enhanced recall followed by a lightweight re-ranker model. A compact draft model (TinyLlama-1.1B) makes tentative future token generation, then a larger verifier model (Mistral-7B) checks the correctness of the candidate token. Empirical experiments demonstrate 33% and 29% improvement in inference latency and token reduction, respectively, compared to the baseline of a typical 7B model, while retaining 94% accuracy on factoid tasks.\n\nKey Words: Retrieval-Augmented Generation, Speculative Decoding, Large Language Models, Inference Optimization, Hybrid Retrieval</jats:p>",
-        "DOI": "10.55041/isjem07213",
-        "type": "journal-article",
-        "created": {
-          "date-parts": [
-            [
-              2026,
-              5,
-              6
-            ]
-          ],
-          "date-time": "2026-05-06T16:40:09Z",
-          "timestamp": 1778085609000
-        },
-        "title": [
-          "Speculative Retrieval-Augmented Generation for Cost-Efficient Large Language Model Inference"
-        ],
-        "author": [
-          {
-            "given": "Dr. Sumalatha",
-            "family": "P",
-            "sequence": "first",
-            "affiliation": [],
-            "role": [
-              {
-                "role": "author",
-                "vocabulary": "crossref"
-              }
-            ]
-          },
-          {
-            "given": "Manoj",
-            "family": "Kumar",
-            "sequence": "additional",
-            "affiliation": [],
-            "role": [
-              {
-                "role": "author",
-                "vocabulary": "crossref"
-              }
-            ]
-          }
-        ],
-        "published-online": {
-          "date-parts": [
-            [
-              2026,
-              5,
-              6
-            ]
-          ]
-        },
-        "container-title": [
-          "International Scientific Journal of Engineering and Management"
-        ],
-        "deposited": {
-          "date-parts": [
-            [
-              2026,
-              5,
-              6
-            ]
-          ],
-          "date-time": "2026-05-06T16:40:10Z",
-          "timestamp": 1778085610000
-        },
-        "score": 36.513103,
-        "issued": {
-          "date-parts": [
-            [
-              2026,
-              5,
-              6
-            ]
-          ]
-        },
-        "URL": "https://doi.org/10.55041/isjem07213",
-=======
         "references-count": 41,
         "journal-issue": {
           "issue": "5",
@@ -1484,18 +1242,12 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
               2026,
-<<<<<<< HEAD
-              5,
-              6
-=======
               2,
               26
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
             ]
           ]
         }
@@ -1510,12 +1262,8 @@
             ]
           ],
           "date-time": "2026-02-13T03:03:17Z",
-<<<<<<< HEAD
-          "timestamp": 1770951797952
-=======
           "timestamp": 1770951797952,
           "version": "3.50.1"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         },
         "posted": {
           "date-parts": [
@@ -1527,9 +1275,6 @@
           ]
         },
         "group-title": "Medicine and Pharmacology",
-<<<<<<< HEAD
-        "publisher": "MDPI AG",
-=======
         "reference-count": 0,
         "publisher": "MDPI AG",
         "license": [
@@ -1563,7 +1308,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<jats:p>The demand for efficient and accurate Clinical Decision Support Systems (CDSS) is growing rapidly, driven by the escalating volume of medical data. While Large Language Models (LLMs) offer significant potential, their direct application in healthcare is limited by issues like hallucinations and lack of domain-specific knowledge. Retrieval-Augmented Generation (RAG) addresses these challenges by grounding LLMs with external knowledge, and recent lightweight RAG-based CDSS have shown promise. Building on this, we propose Enhanced Clinical RAG-LLM (ECRAG-LLM), a novel system designed to elevate performance in complex clinical scenarios. ECRAG-LLM utilizes a robust yet lightweight Mistral-based LLM, integrated with a multi-stage instruction tuning strategy that first adapts to general medical knowledge and then reinforces context-aware and causal reasoning using a custom dataset of structured clinical cases. We employ BioSimCSE for domain-specific embeddings and introduce an enhanced RAG architecture featuring hybrid retrieval, cross-encoder-based contextual re-ranking, and context summarization to optimize retrieved information. Extensive experiments on medical benchmarks demonstrate that ECRAG-LLM consistently outperforms baseline lightweight fine-tuned LLMs, achieving significant improvements in diagnostic accuracy, treatment appropriateness, and explanatory quality, particularly in tasks requiring deep clinical reasoning. An ablation study confirms the synergistic contributions of our innovations, and an error analysis highlights a substantial reduction in critical errors, positioning ECRAG-LLM as a more reliable and intelligent solution for resource-constrained clinical environments.</jats:p>",
         "DOI": "10.20944/preprints202602.0996.v1",
         "type": "posted-content",
@@ -1578,18 +1322,12 @@
           "date-time": "2026-02-13T02:07:06Z",
           "timestamp": 1770948426000
         },
-<<<<<<< HEAD
-        "title": [
-          "Clinical Large Language Models with Multi-Stage Instruction Tuning and Advanced Retrieval-Augmented Generation"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
           "Clinical Large Language Models with Multi-Stage Instruction Tuning and Advanced Retrieval-Augmented Generation"
         ],
         "prefix": "10.20944",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Donald",
@@ -1616,10 +1354,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "1968",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "deposited": {
           "date-parts": [
             [
@@ -1631,16 +1366,12 @@
           "date-time": "2026-02-13T02:08:03Z",
           "timestamp": 1770948483000
         },
-<<<<<<< HEAD
-        "score": 36.194485,
-=======
         "score": 36.194397,
         "resource": {
           "primary": {
             "URL": "https://www.preprints.org/manuscript/202602.0996/v1"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -1650,10 +1381,7 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 0,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.20944/preprints202602.0996.v1",
         "published": {
           "date-parts": [
@@ -1663,8 +1391,6 @@
               12
             ]
           ]
-<<<<<<< HEAD
-=======
         },
         "subtype": "preprint"
       },
@@ -2160,7 +1886,6 @@
               2
             ]
           ]
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         }
       },
       {
@@ -2173,12 +1898,8 @@
             ]
           ],
           "date-time": "2026-07-06T04:15:50Z",
-<<<<<<< HEAD
-          "timestamp": 1783311350461
-=======
           "timestamp": 1783311350461,
           "version": "3.54.6"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         },
         "posted": {
           "date-parts": [
@@ -2190,16 +1911,12 @@
           ]
         },
         "group-title": "JMIR Formative Research",
-<<<<<<< HEAD
-        "publisher": "JMIR Publications Inc.",
-=======
         "reference-count": 1,
         "publisher": "JMIR Publications Inc.",
         "content-domain": {
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<sec>\n                  <title>BACKGROUND</title>\n                  <p>There is evidence of rapid adoption of large language models (LLMs) in undergraduate medical education, with medical students using it to support their learning. This raises concerns particularly around the accuracy of LLM-generated information students are learning. Retrieval-augmented generation (RAG), which grounds a LLM in curated materials, may be a strategy to improve their accuracy.</p>\n                </sec>\n                <sec>\n                  <title>OBJECTIVE</title>\n                  <p>This study investigates if grounding LLM outputs in verifiable sources using RAG impacts trust and perceived usability amongst medical students.</p>\n                </sec>\n                <sec>\n                  <title>METHODS</title>\n                  <p>In a four-month qualitative study, second-year medical students at Bristol Medical School used a RAG-enabled LLM (NotebookLM) to help them learn course content. Following this, their perspectives were explored using a focus group and survey was. Qualitative data was analysed using thematic analysis and was supplemented by Likert scale data.</p>\n                </sec>\n                <sec>\n                  <title>RESULTS</title>\n                  <p>RAG-based LLMs were perceived as more reliable than standard LLM responses mainly due to the transparency of and control over information sources. The system functioned as an accessible, on-demand learning resource, improving efficiency and supporting self-directed study. Students continued to use strategies to cross check generated information. They demonstrated some awareness of ethical concerns, mostly around the environmental impact of LLMs and data privacy.</p>\n                </sec>\n                <sec>\n                  <title>CONCLUSIONS</title>\n                  <p>These findings suggest that RAG may enhance students\u2019 trust in LLM outputs while maintaining their benefit as a flexible \u2018study partner\u2019. It highlights RAG as a strategy that educators can use to support students who use LLMs in the context of increasing. However, the impact of RAG-based LLMs over a longer period and on learning outcomes requires further evaluation.</p>\n                </sec>",
         "DOI": "10.2196/preprints.106157",
         "type": "posted-content",
@@ -2214,18 +1931,12 @@
           "date-time": "2026-07-06T03:55:08Z",
           "timestamp": 1783310108000
         },
-<<<<<<< HEAD
-        "title": [
-          "Does retrieval-augmented generation impact medical students\u2019 perceptions of large language models? (Preprint)"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
           "Does retrieval-augmented generation impact medical students\u2019 perceptions of large language models? (Preprint)"
         ],
         "prefix": "10.2196",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0009-0008-3513-3029",
@@ -2270,8 +1981,6 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "1010",
         "reference": [
           {
@@ -2280,7 +1989,6 @@
             "DOI": "10.52783/jier.v6i1.4539"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "deposited": {
           "date-parts": [
             [
@@ -2292,16 +2000,12 @@
           "date-time": "2026-07-06T03:55:08Z",
           "timestamp": 1783310108000
         },
-<<<<<<< HEAD
-        "score": 35.636497,
-=======
         "score": 35.64484,
         "resource": {
           "primary": {
             "URL": "http://preprints.jmir.org/preprint/106157"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -2311,10 +2015,7 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 1,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.2196/preprints.106157",
         "published": {
           "date-parts": [
@@ -2324,134 +2025,6 @@
               3
             ]
           ]
-<<<<<<< HEAD
-        }
-      },
-      {
-        "indexed": {
-          "date-parts": [
-            [
-              2026,
-              7,
-              2
-            ]
-          ],
-          "date-time": "2026-07-02T11:43:51Z",
-          "timestamp": 1782992631964
-        },
-        "publisher": "MDPI AG",
-        "short-container-title": [
-          "Buildings"
-        ],
-        "abstract": "<jats:p>Designers, engineers, and building officials face increasing pressure to accelerate and improve the accuracy of design review for buildings and infrastructure. Roof assemblies and rooftop structures are particularly challenging due to the complexity and fragmentation of regulatory requirements, especially in jurisdictions such as Florida, where compliance must be verified across both the residential and commercial volumes of the Florida Building Code (FBC). The resulting review process is technically demanding and time-intensive, imposing significant cognitive and operational burdens on practitioners and under-resourced public agencies. To address these challenges, this study proposes and evaluates an agentic artificial intelligence (AI) framework for automated code compliance checking of roof assemblies and rooftop structures. The framework employs a multi-agent architecture in which specialized AI agents collaboratively interpret regulatory provisions and evaluate roof design parameters across four core modules: data preprocessing and code ingestion, rule-based and semantic analysis, results visualization, and iterative validation. YOLO11m-seg and Mask R-CNN were used for element detection and segmentation, and the system was developed using 150 design projects, including roof plans, section details, and specifications. Four large language models from two families (Mistral and GPT) were comparatively evaluated on standardized compliance tasks. The framework was then tested on a held-out portfolio of 15 distinct roof-design projects comprising 60 code-compliance decisions derived from the FBC 2023, with performance measured by precision, recall, F1-score, and accuracy. GPT-5.4 achieved the highest overall performance (F1 = 0.97; accuracy = 97%). Because the reasoning and vision components were evaluated separately rather than as an integrated end-to-end pipeline, and the scope was limited to one jurisdiction and two drawing types, broader code coverage and production-setting validation are needed before claims of generality. Nonetheless, the results suggest that agentic AI can meaningfully support compliance review and reduce reviewer burden in roof-design permitting.</jats:p>",
-        "DOI": "10.3390/buildings16132637",
-        "type": "journal-article",
-        "created": {
-          "date-parts": [
-            [
-              2026,
-              7,
-              2
-            ]
-          ],
-          "date-time": "2026-07-02T10:04:44Z",
-          "timestamp": 1782986684000
-        },
-        "title": [
-          "An Agentic AI System for Roof Design Compliance Using Computer Vision, Retrieval-Augmented Generation and Large Language Models"
-        ],
-        "author": [
-          {
-            "ORCID": "https://orcid.org/0000-0002-6773-8347",
-            "authenticated-orcid": false,
-            "given": "Nawari O.",
-            "family": "Nawari",
-            "sequence": "first",
-            "affiliation": [
-              {
-                "name": "School of Architecture, College of Design, Construction and Planning, University of Florida, 1480 Inner Road, Gainesville, FL 32611-5702, USA"
-              }
-            ],
-            "role": [
-              {
-                "vocabulary": "crossref",
-                "role": "author"
-              }
-            ]
-          },
-          {
-            "ORCID": "https://orcid.org/0000-0001-7325-9126",
-            "authenticated-orcid": false,
-            "given": "Oluwatoyin O.",
-            "family": "Lawal",
-            "sequence": "additional",
-            "affiliation": [
-              {
-                "name": "School of Architecture, College of Design, Construction and Planning, University of Florida, 1480 Inner Road, Gainesville, FL 32611-5702, USA"
-              }
-            ],
-            "role": [
-              {
-                "vocabulary": "crossref",
-                "role": "author"
-              }
-            ]
-          }
-        ],
-        "published-online": {
-          "date-parts": [
-            [
-              2026,
-              7,
-              2
-            ]
-          ]
-        },
-        "container-title": [
-          "Buildings"
-        ],
-        "link": [
-          {
-            "URL": "https://www.mdpi.com/2075-5309/16/13/2637/pdf",
-            "content-type": "unspecified",
-            "content-version": "vor",
-            "intended-application": "similarity-checking"
-          }
-        ],
-        "deposited": {
-          "date-parts": [
-            [
-              2026,
-              7,
-              2
-            ]
-          ],
-          "date-time": "2026-07-02T10:56:27Z",
-          "timestamp": 1782989787000
-        },
-        "score": 35.585625,
-        "issued": {
-          "date-parts": [
-            [
-              2026,
-              7,
-              2
-            ]
-          ]
-        },
-        "URL": "https://doi.org/10.3390/buildings16132637",
-        "published": {
-          "date-parts": [
-            [
-              2026,
-              7,
-              2
-            ]
-          ]
-        }
-      },
-      {
-=======
         },
         "subtype": "preprint"
       },
@@ -2461,7 +2034,6 @@
             "name": "Research Square"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "indexed": {
           "date-parts": [
             [
@@ -2471,12 +2043,8 @@
             ]
           ],
           "date-time": "2026-06-15T06:52:56Z",
-<<<<<<< HEAD
-          "timestamp": 1781506376435
-=======
           "timestamp": 1781506376435,
           "version": "3.54.1"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         },
         "posted": {
           "date-parts": [
@@ -2488,9 +2056,6 @@
           ]
         },
         "group-title": "In Review",
-<<<<<<< HEAD
-        "publisher": "Springer Science and Business Media LLC",
-=======
         "reference-count": 0,
         "publisher": "Springer Science and Business Media LLC",
         "license": [
@@ -2524,7 +2089,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<title>Abstract</title>\n                <p>Enterprise adoption of artificial intelligence (AI) systems, including Generative AI (GenAI), Retrieval-Augmented Generation (RAG), and agentic AI, is advancing faster than many organizations can adapt their governance, audit, cybersecurity, and executive oversight practices. This paper develops a proposed integrated AI governance prioritization architecture using a design-science research approach, supported by exploratory platform-risk analysis, a reproducible platform-risk dataset, a Monte Carlo robustness assessment, a framework coverage matrix, a Governance Priority Score (GPS)-based demonstration, and a public-document relevance assessment. The primary contribution is an integrated governance decision-support architecture that uses the Enterprise AI Platform Taxonomy (EAPT) to estimate platform burden, the Enterprise AI Risk Taxonomy (EART) to organize governance-risk exposure, the Enterprise AI Governance Maturity Model (EAGM) to represent organizational readiness, and the Integrated Agentic AI Governance Framework (IAGF) to identify agentic AI oversight requirements within a unified workflow. These components are operationally connected through GPS, which links platform burden, governancerisk gaps, organizational readiness, agentic runtime-control needs, and executive decision support. The proposed architecture draws upon NIST AI RMF, NIST AI 600-1, ISO/IEC 42001, COBIT, OWASP LLM Top 10, MITRE ATLAS, the EU AI Act, and related AI governance literature. A rubric-based analytical dataset covering 19 enterprise AI platforms evaluates each platform across eight subdimensions, with final platform-risk scores computed as the arithmetic mean of data access scope, operational autonomy, tool/API integration breadth, external connectivity, governance burden, cybersecurity exposure, adoption and shadow-AI risk, and supply-chain integrity. TThe expanded scoring method produces high rank stability relative to the original final-score dataset, with Spearman\u2019s \u03c1 = 0.996, and remains directionally stable under coding-uncertainty stress testing; these results are interpreted only as internal coding stability and robustness, not external validation. Public evidence from U.S. government agencies, universities, healthcare systems, and financial institutions is used to assess architecture relevance and observability, not to claim organizational effectiveness. The paper contributes a bounded design-science foundation for future inter-rater reliability testing, Delphi expert validation, organizational pilots, psychometric evaluation, and dashboard usability assessment.</p>",
         "DOI": "10.21203/rs.3.rs-10012178/v1",
         "type": "posted-content",
@@ -2539,18 +2103,12 @@
           "date-time": "2026-06-15T06:08:16Z",
           "timestamp": 1781503696000
         },
-<<<<<<< HEAD
-        "title": [
-          "Retrieval-Augmented Generation (RAG), Generative AI, and\nAgentic AI Governance: An Integrated Enterprise Governance\nPrioritization Architecture"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
           "Retrieval-Augmented Generation (RAG), Generative AI, and\nAgentic AI Governance: An Integrated Enterprise Governance\nPrioritization Architecture"
         ],
         "prefix": "10.21203",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0000-0001-7501-7809",
@@ -2587,10 +2145,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "297",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://www.researchsquare.com/article/rs-10012178/v1",
@@ -2616,16 +2171,12 @@
           "date-time": "2026-06-15T06:08:17Z",
           "timestamp": 1781503697000
         },
-<<<<<<< HEAD
-        "score": 35.51014,
-=======
         "score": 35.510384,
         "resource": {
           "primary": {
             "URL": "https://www.researchsquare.com/article/rs-10012178/v1"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -2635,10 +2186,7 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 0,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.21203/rs.3.rs-10012178/v1",
         "published": {
           "date-parts": [
@@ -2648,12 +2196,8 @@
               15
             ]
           ]
-<<<<<<< HEAD
-        }
-=======
         },
         "subtype": "preprint"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
       },
       {
         "indexed": {
@@ -2665,11 +2209,6 @@
             ]
           ],
           "date-time": "2026-08-05T14:55:22Z",
-<<<<<<< HEAD
-          "timestamp": 1785941722662
-        },
-        "publisher": "Society of Petroleum Engineers (SPE)",
-=======
           "timestamp": 1785941722662,
           "version": "3.56.0"
         },
@@ -2688,7 +2227,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<jats:title>Summary</jats:title>\n                  <jats:p>In high-risk industrial settings, leveraging large language models (LLMs) for automated accident analysis and generating safety reports has emerged as an efficient workflow. However, this approach is fundamentally constrained by the models\u2019 inherent knowledge limitations, frequently resulting in analyses that lack domain-specific understanding and regulatory alignment.</jats:p>\n                  <jats:p>To tackle this issue, we introduce SafeRAG, a multistage retrieval-augmented framework for safety report generation. Specifically, the framework uses an entity-centric approach that prompts the LLMs to internally generate domain-specific knowledge. Concurrently, it performs a hierarchical retrieval of external regulations relevant to the accident at topic, concept, and context levels. To obtain well-structured reports, we leverage prompt engineering, integrating internal and external knowledge. Furthermore, a domain-expert persona is also assigned to help LLMs analyze accidents from a specific perspective. To evaluate our approach, we construct a data set from 10,818 accident-description/report pairs collected from real-world industry reports. Experiments show that SafeRAG substantially outperforms baseline LLMs on metrics that include bidirectional encoder representations from transformers (BERTScore) and bidirectional auto-regressive transformers (BARTScore), demonstrating the effectiveness of our approach.</jats:p>",
         "DOI": "10.2118/234689-pa",
         "type": "journal-article",
@@ -2703,11 +2241,6 @@
           "date-time": "2026-08-05T14:17:54Z",
           "timestamp": 1785939474000
         },
-<<<<<<< HEAD
-        "title": [
-          "SafeRAG: A Large-Language-Model-Based Multistage Retrieval-Augmented Framework for Oil and Gas Safety Report Generation"
-        ],
-=======
         "page": "1-13",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -2715,7 +2248,6 @@
           "SafeRAG: A Large-Language-Model-Based Multistage Retrieval-Augmented Framework for Oil and Gas Safety Report Generation"
         ],
         "prefix": "10.2118",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0000-0001-7491-5201",
@@ -2784,10 +2316,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "861",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -2797,11 +2326,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "container-title": [
-          "SPE Journal"
-        ],
-=======
         "reference": [
           {
             "key": "2026080510174680500_R1",
@@ -3103,7 +2627,6 @@
           "SPE Journal"
         ],
         "language": "en",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://onepetro.org/SJ/article-pdf/doi/10.2118/234689-PA/5396255/spe-234689-pa.pdf",
@@ -3129,16 +2652,12 @@
           "date-time": "2026-08-05T14:18:01Z",
           "timestamp": 1785939481000
         },
-<<<<<<< HEAD
-        "score": 34.93278,
-=======
         "score": 34.933067,
         "resource": {
           "primary": {
             "URL": "https://onepetro.org/SJ/article/doi/10.2118/234689-PA/801839/SafeRAG-A-Large-Language-Model-Based-Multistage"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -3148,9 +2667,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.2118/234689-pa",
-=======
         "references-count": 39,
         "URL": "https://doi.org/10.2118/234689-pa",
         "ISSN": [
@@ -3167,7 +2683,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -3188,11 +2703,6 @@
             ]
           ],
           "date-time": "2026-07-04T21:16:23Z",
-<<<<<<< HEAD
-          "timestamp": 1783199783925
-        },
-        "publisher": "Universitas Muhammadiyah Muara Bungo",
-=======
           "timestamp": 1783199783925,
           "version": "3.54.6"
         },
@@ -3221,7 +2731,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "short-container-title": [
           "JUPTIK"
         ],
@@ -3239,11 +2748,6 @@
           "date-time": "2026-07-04T14:11:07Z",
           "timestamp": 1783174267000
         },
-<<<<<<< HEAD
-        "title": [
-          "Chatbot Hybrid Fatwa MUI Menggunakan Retrieval Augmented Generation dan Large Language Model"
-        ],
-=======
         "page": "123-129",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -3252,7 +2756,6 @@
         ],
         "prefix": "10.52060",
         "volume": "4",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Surya Hidayatullah",
@@ -3318,10 +2821,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "29653",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -3359,16 +2859,12 @@
           "date-time": "2026-07-04T20:37:12Z",
           "timestamp": 1783197432000
         },
-<<<<<<< HEAD
-        "score": 34.604088,
-=======
         "score": 34.668827,
         "resource": {
           "primary": {
             "URL": "https://www.ejournal.ummuba.ac.id/index.php/JUPTIK/article/view/4318"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -3378,9 +2874,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.52060/juptik.v4i1.4318",
-=======
         "references-count": 0,
         "journal-issue": {
           "issue": "1",
@@ -3404,7 +2897,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -3425,11 +2917,6 @@
             ]
           ],
           "date-time": "2026-07-10T15:16:13Z",
-<<<<<<< HEAD
-          "timestamp": 1783696573695
-        },
-        "publisher": "U.S. Army Engineer Research and Development Center",
-=======
           "timestamp": 1783696573695,
           "version": "3.55.0"
         },
@@ -3439,7 +2926,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<jats:p>The US Army Corps of Engineers (USACE) Civil Works (CW) research and development (R&amp;D) mission is to address challenging environmental sustainability problems through innovative science and engineering, which helps to ensure a safer, more prosperous, and more resilient nation. To achieve this, the US Army Engineer Research and Development Center (ERDC) plans, executes, leads, and directs many R&amp;D programs in coordination with USACE Headquarters, Districts, and Divisions through its multiple strategic focus areas, which include infrastructure, water modeling, crisis preparedness, ecosystem, sediment management, data, artificial intelligence, and robotics. In this process, much information is generated, including internal progress reviews, financial reports, scopes of work, work package planning, and success stories.</jats:p>",
         "DOI": "10.21079/11681/50309",
         "type": "report",
@@ -3454,18 +2940,12 @@
           "date-time": "2026-07-10T14:51:37Z",
           "timestamp": 1783695097000
         },
-<<<<<<< HEAD
-        "title": [
-          "Microsoft Azure artificial intelligence / machine learning hackathon for development of retrieval-augmented generation large language model"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
           "Microsoft Azure artificial intelligence / machine learning hackathon for development of retrieval-augmented generation large language model"
         ],
         "prefix": "10.21079",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Janet L.",
@@ -3528,10 +3008,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "8667",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -3551,16 +3028,12 @@
           "date-time": "2026-07-10T14:51:37Z",
           "timestamp": 1783695097000
         },
-<<<<<<< HEAD
-        "score": 34.478195,
-=======
         "score": 34.478848,
         "resource": {
           "primary": {
             "URL": "https://hdl.handle.net/11681/50309"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -3569,13 +3042,10 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 0,
         "alternative-id": [
           "ERDC/ITL TN-26-4"
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.21079/11681/50309",
         "published": {
           "date-parts": [
@@ -3591,115 +3061,11 @@
           "date-parts": [
             [
               2026,
-<<<<<<< HEAD
-              3,
-              6
-            ]
-          ],
-          "date-time": "2026-03-06T17:18:47Z",
-          "timestamp": 1772817527133
-        },
-        "publisher": "Leadership & Innovation Lab",
-        "abstract": "<jats:p>Large Language Models (LLMs) that rely solely on parametric memory learned through training have demonstrated strong performance in biomedical question-answering, but their tendency to hallucinate facts and the difficulty of adjusting and adding to the learned knowledge limit their usefulness in clinical settings. Retrieval-Augmented Generation (RAG) has emerged as a promising solution by adding a non-parametric source of memory and grounding LLM outputs to reputable external sources. This paper aims to survey the evolution of RAG methodologies and highlight the most recent developments and shifts in paradigms like Agentic RAG. We highlight current state-of-the-art biomedical RAG systems, the latest evaluation benchmarks, and empirical findings regarding best fine-tuning practices. We also examine technical including lost-in-the-middle effects and scaling behaviour. Ethical concerns surrounding privacy and bias are brought to attention alongside research gaps. Finally, we discuss future directions of RAG in the biomedical field, including integration into Clinical Decision Support systems (CDS).</jats:p>",
-        "DOI": "10.70121/001c.158711",
-        "type": "journal-article",
-        "created": {
-          "date-parts": [
-            [
-              2026,
-              3,
-              6
-            ]
-          ],
-          "date-time": "2026-03-06T11:10:26Z",
-          "timestamp": 1772795426000
-        },
-        "title": [
-          "The Role of Retrieval-Augmented Generation in Improving Factual Accuracy for Medical Large Language Models"
-        ],
-        "author": [
-          {
-            "given": "Eason",
-            "family": "Ni",
-            "sequence": "first",
-            "affiliation": [],
-            "role": [
-              {
-                "role": "author",
-                "vocabulary": "crossref"
-              }
-            ]
-          }
-        ],
-        "published-online": {
-          "date-parts": [
-            [
-              2026,
-              3,
-              15
-            ]
-          ]
-        },
-        "container-title": [
-          "Scholarly Review Journal"
-        ],
-        "link": [
-          {
-            "URL": "https://www.scholarlyreview.org/article/158711-the-role-of-retrieval-augmented-generation-in-improving-factual-accuracy-for-medical-large-language-models.pdf",
-            "content-type": "unspecified",
-            "content-version": "vor",
-            "intended-application": "similarity-checking"
-          }
-        ],
-        "deposited": {
-          "date-parts": [
-            [
-              2026,
-              3,
-              6
-            ]
-          ],
-          "date-time": "2026-03-06T11:10:27Z",
-          "timestamp": 1772795427000
-        },
-        "score": 34.28896,
-        "issued": {
-          "date-parts": [
-            [
-              2026,
-              3,
-              15
-            ]
-          ]
-        },
-        "URL": "https://doi.org/10.70121/001c.158711",
-        "published": {
-          "date-parts": [
-            [
-              2026,
-              3,
-              15
-            ]
-          ]
-        }
-      },
-      {
-        "indexed": {
-          "date-parts": [
-            [
-              2026,
-=======
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
               7,
               13
             ]
           ],
           "date-time": "2026-07-13T15:09:05Z",
-<<<<<<< HEAD
-          "timestamp": 1783955345869
-        },
-        "publisher": "Springer Science and Business Media LLC",
-=======
           "timestamp": 1783955345869,
           "version": "3.55.0"
         },
@@ -3759,7 +3125,6 @@
           ],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "short-container-title": [
           "J Digit Imaging. Inform. med."
         ],
@@ -3777,11 +3142,6 @@
           "date-time": "2026-07-13T14:44:24Z",
           "timestamp": 1783953864000
         },
-<<<<<<< HEAD
-        "title": [
-          "JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework for Diagnostic Support in Jawbone Lesions: Development and Technical Validation Study"
-        ],
-=======
         "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -3789,7 +3149,6 @@
           "JADE-Plus: A Multimodal Agentic Retrieval-Augmented Generation Large Language Framework for Diagnostic Support in Jawbone Lesions: Development and Technical Validation Study"
         ],
         "prefix": "10.1007",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0000-0002-2092-6076",
@@ -3862,10 +3221,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "297",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -3875,11 +3231,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "container-title": [
-          "Journal of Imaging Informatics in Medicine"
-        ],
-=======
         "reference": [
           {
             "key": "2086_CR1",
@@ -4219,7 +3570,6 @@
           "Journal of Imaging Informatics in Medicine"
         ],
         "language": "en",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://link.springer.com/content/pdf/10.1007/s10278-026-02086-9.pdf",
@@ -4251,16 +3601,12 @@
           "date-time": "2026-07-13T14:44:27Z",
           "timestamp": 1783953867000
         },
-<<<<<<< HEAD
-        "score": 34.220963,
-=======
         "score": 34.35595,
         "resource": {
           "primary": {
             "URL": "https://link.springer.com/10.1007/s10278-026-02086-9"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -4270,9 +3616,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.1007/s10278-026-02086-9",
-=======
         "references-count": 51,
         "alternative-id": [
           "2086"
@@ -4287,7 +3630,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -4296,8 +3638,6 @@
               13
             ]
           ]
-<<<<<<< HEAD
-=======
         },
         "assertion": [
           {
@@ -4527,7 +3867,6 @@
               15
             ]
           ]
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         }
       },
       {
@@ -4540,11 +3879,6 @@
             ]
           ],
           "date-time": "2026-02-26T15:27:57Z",
-<<<<<<< HEAD
-          "timestamp": 1772119677564
-        },
-        "publisher": "Politeknik Negeri Bengkalis",
-=======
           "timestamp": 1772119677564,
           "version": "3.50.1"
         },
@@ -4573,7 +3907,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "short-container-title": [
           "ISI"
         ],
@@ -4591,11 +3924,6 @@
           "date-time": "2026-01-25T14:31:54Z",
           "timestamp": 1769351514000
         },
-<<<<<<< HEAD
-        "title": [
-          "Implementation of Retrieval-Augmented Generation\u00a0 Method on Large Language Model for Development of Campus Service and Information Chatbot"
-        ],
-=======
         "page": "298-309",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -4604,7 +3932,6 @@
         ],
         "prefix": "10.35314",
         "volume": "11",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "family": "Muhammad Dzaki Salman",
@@ -4651,10 +3978,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "20653",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -4692,16 +4016,12 @@
           "date-time": "2026-02-26T14:41:27Z",
           "timestamp": 1772116887000
         },
-<<<<<<< HEAD
-        "score": 34.17837,
-=======
         "score": 34.178375,
         "resource": {
           "primary": {
             "URL": "https://jurnal.polbeng.ac.id/index.php/ISI/article/view/1484"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -4711,9 +4031,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.35314/3y9hy151",
-=======
         "references-count": 0,
         "journal-issue": {
           "issue": "1",
@@ -4737,7 +4054,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -4758,11 +4074,6 @@
             ]
           ],
           "date-time": "2026-05-09T03:10:46Z",
-<<<<<<< HEAD
-          "timestamp": 1778296246415
-        },
-        "publisher": "Oxford University Press (OUP)",
-=======
           "timestamp": 1778296246415,
           "version": "3.51.4"
         },
@@ -4800,7 +4111,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>While Large Language Models (LLMs) offer generative capabilities, generic models often lack domain-specific grounding, leading to hallucinations in high-stakes contexts. However, LLMs can serve as clinical decision support tools if augmented with specific domain data. This study evaluates the utility of Retrieval-Augmented Generation (RAG) applied to open-source LLMs, utilizing a curated knowledge base of authoritative sleep medicine textbooks, to quantify improvement in performance.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We evaluated four open-source models\u2014Llama-70B, Llama-8B, Qwen-14B, and Qwen-235B, linked to a RAG system indexing five standard textbooks, including ICSD-3 TR. Models were tested on sleep board\u2013style MCQs and clinical vignettes diagnostic accuracy. Performance was assessed across nine configurations derived from three factors: RAG pipeline complexity (Plain vs. Complicated), textbook preprocessing (Uncleaned vs. Cleaned/TOC-aligned), and retriever type (Dense-only vs. Hybrid). Metrics included MCQ Accuracy and the rates at which the correct diagnosis appeared as the top result or within the top 5 differential diagnosis lists for vignettes.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>RAG consistently outperformed the no-RAG baseline, yielding absolute performance gains of 5.6%\u201310.7% for MCQs and 8.1%\u201310.2% for the top diagnosis in cases across all models. For MCQs, Qwen-235B achieved the highest accuracy of 87.3% (vs. 81.7% baseline) using the Plain RAG configuration with Cleaned (TOC-aligned) Hybrid retrieval. Llama-70B followed with 83.6% in the same configuration. For case vignettes, Qwen-235B achieved a correct top diagnosis rate of 66.3% and a correct diagnosis rate within the top 5 differential diagnosis lists of 90.8% using Cleaned Hybrid retrieval configurations. Hybrid retrieval (Dense + Sparse) consistently surpassed Dense-only methods. Notably, while larger models benefited from Cleaned text, smaller models (e.g., Qwen-14B) achieved higher top diagnosis rates with Uncleaned text (57.1% vs. 51.0%), suggesting a dependency on redundant context in lower-parameter settings.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>RAG significantly enhances knowledge performance of open-source LLMs in sleep medicine. Hybrid retrieval and curated, TOC-aligned knowledge bases yield optimal results for large models, whereas smaller models benefit from the redundancy of uncleaned text. These findings suggest that RAG systems can augment LLMs in domain specific knowledge for clinical decision support.</jats:p>\n                    <jats:p>Support (if any)\u2009</jats:p>\n                  </jats:sec>",
         "DOI": "10.1093/sleep/zsag091.0346",
         "type": "journal-article",
@@ -4815,11 +4125,6 @@
           "date-time": "2026-05-09T02:39:59Z",
           "timestamp": 1778294399000
         },
-<<<<<<< HEAD
-        "title": [
-          "0346 Retrieval Augmented Generation Improves Large Language Model Performance in Sleep Medicine"
-        ],
-=======
         "page": "A153-A154",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -4828,7 +4133,6 @@
         ],
         "prefix": "10.1093",
         "volume": "49",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Joseph",
@@ -4943,10 +4247,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "286",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -4959,10 +4260,7 @@
         "container-title": [
           "SLEEPJ"
         ],
-<<<<<<< HEAD
-=======
         "language": "en",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://academic.oup.com/sleep/article-pdf/49/Supplement_1/A153/68252775/zsag091.0346.pdf",
@@ -4988,16 +4286,12 @@
           "date-time": "2026-05-09T02:39:59Z",
           "timestamp": 1778294399000
         },
-<<<<<<< HEAD
-        "score": 34.094074,
-=======
         "score": 34.076847,
         "resource": {
           "primary": {
             "URL": "https://academic.oup.com/sleep/article/49/Supplement_1/A153/8673444"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -5006,9 +4300,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.1093/sleep/zsag091.0346",
-=======
         "references-count": 0,
         "journal-issue": {
           "issue": "Supplement_1",
@@ -5054,7 +4345,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -5065,14 +4355,11 @@
         }
       },
       {
-<<<<<<< HEAD
-=======
         "institution": [
           {
             "name": "Research Square"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "indexed": {
           "date-parts": [
             [
@@ -5082,12 +4369,8 @@
             ]
           ],
           "date-time": "2026-07-10T18:20:32Z",
-<<<<<<< HEAD
-          "timestamp": 1783707632261
-=======
           "timestamp": 1783707632261,
           "version": "3.55.0"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         },
         "posted": {
           "date-parts": [
@@ -5099,9 +4382,6 @@
           ]
         },
         "group-title": "In Review",
-<<<<<<< HEAD
-        "publisher": "Springer Science and Business Media LLC",
-=======
         "reference-count": 0,
         "publisher": "Springer Science and Business Media LLC",
         "license": [
@@ -5135,7 +4415,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<title>Abstract</title>\n                <p>Time-series foundation models and retrieval-based augmentation have recently emerged as relevant tools for financial forecasting, yet it remains unclear when explicit historical retrieval helps a pre-trained probabilistic forecaster in noisy equity settings. This study evaluates that question through Cross-Market Retrieval-Augmented Lag-Llama (CM-RAF-Lag-Llama), a controlled framework for comparing Lag-Llama-only forecasts with retrieval-augmented forecasts across emerging and developed market panels. The main validation uses three balanced seven-asset panels, IDX7, US7, and JP7, producing a 48-configuration panel-context-horizon grid across four context lengths and four prediction horizons. The hybrid system retrieves analogous historical windows from an indexed memory and blends the retrieved continuation with the Lag-Llama forecast while preserving the same forecasting backbone. In the same-backbone return validation, at least one retrieval variant reduces Lag-Llama MSE in all 48 configurations, with aggregate lower-error retrieval MSE reductions of 28.85\\% for IDX7, 27.27\\% for US7, and 33.60\\% for JP7. A second OHLCV-derived stock-feature experiment evaluates log-price, log-volume, range-volatility, and 20-day realized-volatility targets across 72 matched configurations. In that experiment, validation-selected RAF reduces MSE relative to Lag-Llama-only in 68 of 72 configurations and records the lowest MSE among the compared systems in 22 configurations, including 17 of 18 non-log-price US7 settings. A mechanism-level single-series ablation further compares Lag-Llama-only against Lag-Llama + RAF under zero-shot and scheduler-based inference, showing that retrieval effects are horizon-sensitive. The results indicate that retrieval can serve as an external-memory correction for Lag-Llama under selected equity targets, especially when volatility or volume structure provides reusable historical analogs.</p>",
         "DOI": "10.21203/rs.3.rs-10178277/v1",
         "type": "posted-content",
@@ -5150,18 +4429,12 @@
           "date-time": "2026-07-10T18:10:19Z",
           "timestamp": 1783707019000
         },
-<<<<<<< HEAD
-        "title": [
-          "Retrieval-Augmented Large-Language-Model-Based Time-Series Forecasting for Cross-Market Equity Analysis"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
           "Retrieval-Augmented Large-Language-Model-Based Time-Series Forecasting for Cross-Market Equity Analysis"
         ],
         "prefix": "10.21203",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Novanto",
@@ -5196,10 +4469,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "297",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://www.researchsquare.com/article/rs-10178277/v1",
@@ -5225,16 +4495,12 @@
           "date-time": "2026-07-10T18:10:19Z",
           "timestamp": 1783707019000
         },
-<<<<<<< HEAD
-        "score": 34.043087,
-=======
         "score": 34.043346,
         "resource": {
           "primary": {
             "URL": "https://www.researchsquare.com/article/rs-10178277/v1"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -5244,10 +4510,7 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 0,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.21203/rs.3.rs-10178277/v1",
         "published": {
           "date-parts": [
@@ -5257,11 +4520,6 @@
               10
             ]
           ]
-<<<<<<< HEAD
-        }
-      },
-      {
-=======
         },
         "subtype": "preprint"
       },
@@ -5271,7 +4529,6 @@
             "name": "Research Square"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "indexed": {
           "date-parts": [
             [
@@ -5281,12 +4538,8 @@
             ]
           ],
           "date-time": "2026-06-02T17:02:08Z",
-<<<<<<< HEAD
-          "timestamp": 1780419728395
-=======
           "timestamp": 1780419728395,
           "version": "3.54.1"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         },
         "posted": {
           "date-parts": [
@@ -5298,9 +4551,6 @@
           ]
         },
         "group-title": "In Review",
-<<<<<<< HEAD
-        "publisher": "Springer Science and Business Media LLC",
-=======
         "reference-count": 0,
         "publisher": "Springer Science and Business Media LLC",
         "license": [
@@ -5334,7 +4584,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<title>Abstract</title>\n                <p>Large language models (LLMs) increasingly support reasoning, question answering, decision support, and retrieval-augmented knowledge work. High benchmark performance, however, does not by itself establish reliability under realistic deployment conditions. This article treats LLM reliability as a pipeline-level evaluation construct rather than a single capability score. Using a semi-systematic evidence-map design, it synthesizes 77 studies selected from a broader OpenAlex audit trail of 1,010 candidate records. The review focuses on four linked dimensions: reasoning faithfulness, factual grounding, evaluation validity, and evidence-use reliability in retrieval-augmented generation. The synthesis distinguishes answer accuracy from reasoning faithfulness, truth from source-grounded support, benchmark performance from evaluation validity, and retrieved evidence from evidence actually used during generation. Across the reviewed literature, reasoning traces can improve answer accuracy without demonstrating process faithfulness; self-correction without external feedback shows inconsistent reliability; hallucination, attribution error, and sycophancy represent separable factuality risks; benchmark scores are sensitive to contamination, saturation, and protocol variation; and retrieval-augmented generation reliability depends on retrieval relevance, source sufficiency, context utilization, attribution, and calibrated refusal. The article contributes an operational reliability-gap framework and testable propositions for evaluating interactions among reasoning, factual grounding, evaluation trust, evidence use, lateral reasoning, and equitable multilingual reliability. The framework supports reliability-centered evaluation protocols that report process verification, claim-level grounding, contamination controls, uncertainty and refusal behavior, and stratified performance across language, culture, and domain contexts.</p>",
         "DOI": "10.21203/rs.3.rs-9882260/v1",
         "type": "posted-content",
@@ -5349,18 +4598,12 @@
           "date-time": "2026-06-02T16:06:25Z",
           "timestamp": 1780416385000
         },
-<<<<<<< HEAD
-        "title": [
-          "Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
           "Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation"
         ],
         "prefix": "10.21203",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0009-0004-6455-0762",
@@ -5399,10 +4642,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "297",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://www.researchsquare.com/article/rs-9882260/v1",
@@ -5428,16 +4668,12 @@
           "date-time": "2026-06-02T16:06:31Z",
           "timestamp": 1780416391000
         },
-<<<<<<< HEAD
-        "score": 33.93282,
-=======
         "score": 33.93263,
         "resource": {
           "primary": {
             "URL": "https://www.researchsquare.com/article/rs-9882260/v1"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -5447,10 +4683,7 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 0,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.21203/rs.3.rs-9882260/v1",
         "published": {
           "date-parts": [
@@ -5460,12 +4693,8 @@
               2
             ]
           ]
-<<<<<<< HEAD
-        }
-=======
         },
         "subtype": "preprint"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
       },
       {
         "indexed": {
@@ -5477,11 +4706,6 @@
             ]
           ],
           "date-time": "2026-05-16T08:14:08Z",
-<<<<<<< HEAD
-          "timestamp": 1778919248307
-        },
-        "publisher": "International Journal for Research in Applied Science and Engineering Technology (IJRASET)",
-=======
           "timestamp": 1778919248307,
           "version": "3.51.4"
         },
@@ -5492,7 +4716,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "short-container-title": [
           "IJRASET"
         ],
@@ -5510,11 +4733,6 @@
           "date-time": "2026-05-16T07:56:49Z",
           "timestamp": 1778918209000
         },
-<<<<<<< HEAD
-        "title": [
-          "Hybrid Graph Neural Network and Large Language Model Framework for Robust Knowledge Graph Question Answering via Retrieval-Augmented Generation"
-        ],
-=======
         "page": "2531-2543",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -5523,7 +4741,6 @@
         ],
         "prefix": "10.22214",
         "volume": "14",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Sohail",
@@ -5538,10 +4755,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "9476",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -5565,16 +4779,12 @@
           "date-time": "2026-05-16T07:57:01Z",
           "timestamp": 1778918221000
         },
-<<<<<<< HEAD
-        "score": 33.34592,
-=======
         "score": 33.52751,
         "resource": {
           "primary": {
             "URL": "https://www.ijraset.com/best-journal/hybrid-graph-neural-network-and-large-language-"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -5584,9 +4794,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.22214/ijraset.2026.82233",
-=======
         "references-count": 0,
         "journal-issue": {
           "issue": "5",
@@ -5610,7 +4817,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -5631,11 +4837,6 @@
             ]
           ],
           "date-time": "2026-06-01T08:01:15Z",
-<<<<<<< HEAD
-          "timestamp": 1780300875451
-        },
-        "publisher": "EWA Publishing",
-=======
           "timestamp": 1780300875451,
           "version": "3.54.0"
         },
@@ -5646,7 +4847,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "short-container-title": [
           "TNS"
         ],
@@ -5664,11 +4864,6 @@
           "date-time": "2026-06-01T07:10:31Z",
           "timestamp": 1780297831000
         },
-<<<<<<< HEAD
-        "title": [
-          "Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation"
-        ],
-=======
         "page": "188-194",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -5677,7 +4872,6 @@
         ],
         "prefix": "10.54254",
         "volume": "174",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Haopeng",
@@ -5696,10 +4890,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "32523",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -5723,16 +4914,12 @@
           "date-time": "2026-06-01T07:10:33Z",
           "timestamp": 1780297833000
         },
-<<<<<<< HEAD
-        "score": 33.183617,
-=======
         "score": 33.19068,
         "resource": {
           "primary": {
             "URL": "https://tns.ewapub.com/article/view/34055"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -5742,9 +4929,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.54254/2753-8818/2026.dl34055",
-=======
         "references-count": 0,
         "journal-issue": {
           "issue": "1",
@@ -5773,7 +4957,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -5794,11 +4977,6 @@
             ]
           ],
           "date-time": "2026-05-06T14:14:40Z",
-<<<<<<< HEAD
-          "timestamp": 1778076880097
-        },
-        "publisher": "University of Florida George A Smathers Libraries",
-=======
           "timestamp": 1778076880097,
           "version": "3.51.4"
         },
@@ -5827,7 +5005,6 @@
           "domain": [],
           "crossmark-restriction": false
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "short-container-title": [
           "FLAIRS"
         ],
@@ -5845,11 +5022,6 @@
           "date-time": "2026-05-06T13:17:58Z",
           "timestamp": 1778073478000
         },
-<<<<<<< HEAD
-        "title": [
-          "An Exploratory Study of Agentic Retrieval Augmented Generation for Mental Health Oriented Language Models"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
@@ -5857,7 +5029,6 @@
         ],
         "prefix": "10.32473",
         "volume": "39",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "given": "Khoa",
@@ -5932,10 +5103,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "17357",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -5973,16 +5141,12 @@
           "date-time": "2026-05-06T13:17:58Z",
           "timestamp": 1778073478000
         },
-<<<<<<< HEAD
-        "score": 33.028984,
-=======
         "score": 33.029495,
         "resource": {
           "primary": {
             "URL": "https://journals.flvc.org/FLAIRS/article/view/141782"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -5992,9 +5156,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.32473/flairs.39.1.141782",
-=======
         "references-count": 0,
         "journal-issue": {
           "issue": "1",
@@ -6023,7 +5184,6 @@
             "type": "print"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -6035,14 +5195,11 @@
         }
       },
       {
-<<<<<<< HEAD
-=======
         "institution": [
           {
             "name": "Research Square"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "indexed": {
           "date-parts": [
             [
@@ -6052,12 +5209,8 @@
             ]
           ],
           "date-time": "2026-05-22T04:10:39Z",
-<<<<<<< HEAD
-          "timestamp": 1779423039201
-=======
           "timestamp": 1779423039201,
           "version": "3.53.1"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         },
         "posted": {
           "date-parts": [
@@ -6069,9 +5222,6 @@
           ]
         },
         "group-title": "In Review",
-<<<<<<< HEAD
-        "publisher": "Springer Science and Business Media LLC",
-=======
         "reference-count": 0,
         "publisher": "Springer Science and Business Media LLC",
         "license": [
@@ -6105,7 +5255,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<title>Abstract</title>\n                <p>Background. Insurance penetration in Kenya stands at roughly 2.3% of GDP, well below the global average of 7.4%. Documented barriers include low financial literacy, affordability, cultural resistance and limited access to trusted, locally relevant information. Large Language Models (LLMs) could in principle deliver scalable, personalised information, but off-the-shelf models perform poorly on jurisdiction-specific regulatory content and are prone to hallucination in low-resource domains. \nObjective. We investigate how a mid-sized open-weights LLM can be adapted to a low-resource, highly regulated domain using two complementary techniques \u2014 parameter-efficient supervised fine-tuning and Retrieval-Augmented Generation (RAG) \u2014 and we quantify the marginal value of each technique and of their combination. \nMethods. A question\u2013answer (QA) corpus was curated from primary regulatory sources (Insurance Regula- tory Authority of Kenya, Association of Kenya Insurers) and reformatted into JSONL. Meta\u2019s LLaMA-2- 13B-chat was used as the base model. We compared four configurations: (i) base model; (ii) base + LoRA fine-tuning; (iii) base + RAG over a Chroma vector index; and (iv) fine-tuning + RAG. Outputs were graded by GPT-4 (with a human-validated paraphrased test set) on accuracy (1\u201310), succinctness (5-level rubric mapped to a numerical scale) and relevancy (1\u201310). \nResults. The combined fine-tuning + RAG configuration achieved the best performance on all three metrics (accuracy 6.803, succinctness 7.03, relevancy 6.89), versus the base model (1.229, 3.78, 1.98). Fine-tuning alone yielded only marginal accuracy gains and a measurable drop in relevancy, indicating that parameter adaptation without external knowledge grounding can make the model more confident without making it more correct. RAG contributed the largest single improvement. \nContribution. The paper offers (a) a reproducible recipe for adapting open-weights LLMs to a low-resource regulated domain on commodity hardware; (b) empirical evidence on the relative contribution of fine-tuning vs. retrieval grounding in that setting; and (c) a discussion of the implications for AI-assisted financial inclusion in Sub-Saharan Africa.</p>",
         "DOI": "10.21203/rs.3.rs-9770645/v1",
         "type": "posted-content",
@@ -6120,18 +5269,12 @@
           "date-time": "2026-05-22T03:59:47Z",
           "timestamp": 1779422387000
         },
-<<<<<<< HEAD
-        "title": [
-          "Adapting Large Language Models for Low-Resource Regulated Domains: A Fine-Tuning and Retrieval-Augmented\nGeneration Approach to Insurance Information Delivery in Kenya"
-        ],
-=======
         "source": "Crossref",
         "is-referenced-by-count": 0,
         "title": [
           "Adapting Large Language Models for Low-Resource Regulated Domains: A Fine-Tuning and Retrieval-Augmented\nGeneration Approach to Insurance Information Delivery in Kenya"
         ],
         "prefix": "10.21203",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0009-0000-5241-2849",
@@ -6152,10 +5295,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "297",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://www.researchsquare.com/article/rs-9770645/v1",
@@ -6181,16 +5321,12 @@
           "date-time": "2026-05-22T03:59:47Z",
           "timestamp": 1779422387000
         },
-<<<<<<< HEAD
-        "score": 33.016014,
-=======
         "score": 33.016384,
         "resource": {
           "primary": {
             "URL": "https://www.researchsquare.com/article/rs-9770645/v1"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -6200,10 +5336,7 @@
             ]
           ]
         },
-<<<<<<< HEAD
-=======
         "references-count": 0,
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "URL": "https://doi.org/10.21203/rs.3.rs-9770645/v1",
         "published": {
           "date-parts": [
@@ -6213,12 +5346,8 @@
               22
             ]
           ]
-<<<<<<< HEAD
-        }
-=======
         },
         "subtype": "preprint"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
       },
       {
         "indexed": {
@@ -6230,14 +5359,6 @@
             ]
           ],
           "date-time": "2026-07-16T10:07:33Z",
-<<<<<<< HEAD
-          "timestamp": 1784196453526
-        },
-        "publisher": "Wiley",
-        "short-container-title": [
-          "Expert Systems"
-        ],
-=======
           "timestamp": 1784196453526,
           "version": "3.55.0"
         },
@@ -6295,7 +5416,6 @@
             ]
           ]
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    As tool repositories for Large Language Model (LLM) agents grow from dozens to hundreds of endpoints, flat retrieval paradigms that treat the repository as an unstructured list suffer from context overload, cross\u2010domain semantic collision and degraded selection accuracy. We propose Hi\u2010RAG, a Hierarchical Retrieval\u2010Augmented Generation framework that exploits the Type  Service  Tool structure of the Model Context Protocol (MCP) via a principled coarse\u2010to\u2010fine pipeline. Stage 1 applies a\n                    <jats:italic>Tool\u2010as\u2010Proxy</jats:italic>\n                    hybrid retrieval strategy (BM25 sparse retrieval combined with dense bi\u2010encoder search, fused via Weighted Reciprocal Rank Fusion) to identify candidate services efficiently. Stage 2 performs type\u2010aware re\u2010ranking over a local heterogeneous graph, integrating a domain\u2010level gating mechanism with contextualised tool attention for precise service scoring. We further introduce\n                    <jats:italic>MCPBench</jats:italic>\n                    , the first benchmark for hierarchical tool selection, comprising 201 tools across 40 real\u2010enterprise services\u201423% of queries require multi\u2010service reasoning. Experiments across five LLMs show Hi\u2010RAG improves Top\u20101 accuracy by up to 7.5% (single\u2010service) and 10.0% (multi\u2010service) over Flat\u2010RAG, while reducing token consumption by up to 89% against full\u2010context injection. Comparisons with a strong late\u2010interaction baseline (ColBERT\u2010RAG) further confirm the superiority of Hi\u2010RAG. Zero\u2010shot evaluation on ToolLLM (16,464 tools) confirms scalability, and formal analyses establish  context growth with respect to repository size.\n                  </jats:p>",
         "DOI": "10.1111/exsy.70341",
         "type": "journal-article",
@@ -6310,11 +5430,6 @@
           "date-time": "2026-07-01T03:22:36Z",
           "timestamp": 1782876156000
         },
-<<<<<<< HEAD
-        "title": [
-          "Hi\u2010\n                    <scp>RAG</scp>\n                    : A Hierarchical Retrieval\u2010Augmented Generation Framework for Scalable and Generalisable Tool Selection in Large Language Model Agents"
-        ],
-=======
         "update-policy": "https://doi.org/10.1002/crossmark_policy",
         "source": "Crossref",
         "is-referenced-by-count": 0,
@@ -6323,7 +5438,6 @@
         ],
         "prefix": "10.1111",
         "volume": "43",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "author": [
           {
             "ORCID": "https://orcid.org/0009-0004-6173-0071",
@@ -6360,10 +5474,7 @@
             ]
           }
         ],
-<<<<<<< HEAD
-=======
         "member": "311",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published-online": {
           "date-parts": [
             [
@@ -6373,11 +5484,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "container-title": [
-          "Expert Systems"
-        ],
-=======
         "reference": [
           {
             "key": "e_1_2_12_2_1",
@@ -6612,7 +5718,6 @@
           "Expert Systems"
         ],
         "language": "en",
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "link": [
           {
             "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/exsy.70341",
@@ -6644,16 +5749,12 @@
           "date-time": "2026-07-16T09:33:41Z",
           "timestamp": 1784194421000
         },
-<<<<<<< HEAD
-        "score": 32.991646,
-=======
         "score": 32.973347,
         "resource": {
           "primary": {
             "URL": "https://onlinelibrary.wiley.com/doi/10.1111/exsy.70341"
           }
         },
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "issued": {
           "date-parts": [
             [
@@ -6663,9 +5764,6 @@
             ]
           ]
         },
-<<<<<<< HEAD
-        "URL": "https://doi.org/10.1111/exsy.70341",
-=======
         "references-count": 44,
         "journal-issue": {
           "issue": "8",
@@ -6699,7 +5797,6 @@
             "type": "electronic"
           }
         ],
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
         "published": {
           "date-parts": [
             [
@@ -6708,9 +5805,6 @@
               30
             ]
           ]
-<<<<<<< HEAD
-        }
-=======
         },
         "assertion": [
           {
@@ -6745,7 +5839,6 @@
           }
         ],
         "article-number": "e70341"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
       }
     ],
     "items-per-page": 24,

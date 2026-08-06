@@ -1,67 +1,4 @@
 {
-<<<<<<< HEAD
-  "report_name": "baseline_quality",
-  "total_rows": 23,
-  "checks": [
-    {
-      "check": "row_count_positive",
-      "success": true,
-      "observed": 23,
-      "expected": "> 0"
-    },
-    {
-      "check": "paper_id_not_null",
-      "success": true,
-      "observed": 0,
-      "expected": "0 rong/null"
-    },
-    {
-      "check": "paper_id_unique",
-      "success": true,
-      "observed": 0,
-      "expected": "0 trung"
-    },
-    {
-      "check": "title_not_null",
-      "success": true,
-      "observed": 0,
-      "expected": "0 rong"
-    },
-    {
-      "check": "summary_not_null",
-      "success": true,
-      "observed": 0,
-      "expected": "0 rong"
-    },
-    {
-      "check": "summary_min_length",
-      "success": true,
-      "observed": 0,
-      "expected": "0 row < 100 ky tu"
-    },
-    {
-      "check": "text_for_embedding_not_empty",
-      "success": true,
-      "observed": 0,
-      "expected": "0 rong"
-    },
-    {
-      "check": "no_duplicate_titles",
-      "success": true,
-      "observed": 0,
-      "expected": "0 trung"
-    },
-    {
-      "check": "freshness_within_threshold",
-      "success": true,
-      "observed": 0,
-      "expected": "0 row > 180 ngay"
-    }
-  ],
-  "success_count": 9,
-  "failed_count": 0,
-  "success": true
-=======
   "report_name": "baseline",
   "generated_at": "2026-08-06T03:15:32.008608+00:00",
   "row_count": 24,
@@ -110,5 +47,4 @@
     }
   ],
   "overall_status": "PASS"
->>>>>>> 78ad189d2614d9fb9eebc8fa7bc650aa41113ada
 }
