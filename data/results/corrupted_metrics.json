@@ -1,0 +1,11 @@
+{
+  "samples": 8,
+  "retrieval_hit_rate": 0.875,
+  "mean_token_f1": 0.7674418604651163,
+  "judge_accuracy": 0.625,
+  "mean_judge_score": 4.375,
+  "ragas": {
+    "skipped": "Set RUN_RAGAS=1 to enable the slower Ragas pass."
+  },
+  "judge_backend": "ollama"
+}
