@@ -1,0 +1,12 @@
+{
+  "latest_published": "2026-08-01",
+  "oldest_published": "2026-02-12",
+  "stale_rows": 0,
+  "total_rows": 23,
+  "is_fresh": true,
+  "threshold_days": 180,
+  "newest_age_days": 5,
+  "oldest_age_days": 175,
+  "stale_ratio": 0.0,
+  "stale_paper_ids": []
+}

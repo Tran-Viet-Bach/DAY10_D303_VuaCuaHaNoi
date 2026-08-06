@@ -1,0 +1,30 @@
+{
+  "run_date": "2026-08-06T03:54:14.555593+00:00",
+  "input_records": 24,
+  "output_rows": 23,
+  "dropped_total": 1,
+  "deduped_total": 0,
+  "dropped_by_reason": {
+    "non_english_summary": 1
+  },
+  "dropped_records": [
+    {
+      "paper_id": "10.47576/2949-1894.2026.7.7.023",
+      "title": "\u0421\u043d\u0438\u0436\u0435\u043d\u0438\u0435 \u0440\u0438\u0441\u043a\u043e\u0432 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f LLM (Large Language Model) \u0432 \u0441\u0444\u0435\u0440\u0435 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0431\u0435\u0437\u043e",
+      "reason": "non_english_summary",
+      "detail": "non-ascii 40% > 30%"
+    }
+  ],
+  "deduped_records": [],
+  "thresholds": {
+    "min_summary_chars": 100,
+    "min_title_chars": 10,
+    "max_non_ascii_ratio": 0.3
+  },
+  "anomalies": {
+    "duplicate_titles": [],
+    "future_published_ids": [],
+    "rows_missing_pdf_url": 7,
+    "rows_missing_categories": 0
+  }
+}

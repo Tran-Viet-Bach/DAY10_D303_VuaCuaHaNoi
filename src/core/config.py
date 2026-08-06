@@ -16,6 +16,7 @@ class Paths:
     raw_records_json: Path
     clean_csv: Path
     clean_json: Path
+    cleaning_log: Path
     chroma_dir: Path
     embeddings_json: Path
     corrupted_clean_csv: Path
@@ -52,6 +53,7 @@ class Settings:
     ollama_base_url: str
     custom_llm_api_key: str | None
     custom_llm_base_url: str | None
+    max_output_tokens: int
     embedding_model: str
     baseline_collection_name: str
     corrupted_collection_name: str
@@ -84,6 +86,7 @@ def load_settings(project_dir: Path | None = None) -> Settings:
         raw_records_json=data_dir / "raw" / "crossref_records.json",
         clean_csv=data_dir / "clean" / "papers_clean.csv",
         clean_json=data_dir / "clean" / "papers_clean.json",
+        cleaning_log=data_dir / "clean" / "cleaning_log.json",
         chroma_dir=data_dir / "chroma",
         embeddings_json=data_dir / "embeddings" / "papers_embeddings.json",
         corrupted_clean_csv=data_dir / "clean" / "papers_clean_corrupted.csv",
@@ -119,6 +122,10 @@ def load_settings(project_dir: Path | None = None) -> Settings:
         ollama_base_url=os.getenv("OLLAMA_BASE_URL", "http://localhost:11434"),
         custom_llm_api_key=os.getenv("CUSTOM_LLM_API_KEY"),
         custom_llm_base_url=os.getenv("CUSTOM_LLM_BASE_URL"),
+        # Gioi han do dai cau tra loi. Bat buoc phai dat tuong minh: neu de trong,
+        # OpenRouter tinh chi phi theo max_completion_tokens cua model (65535 voi
+        # gemini-2.5-flash) va tu choi request bang HTTP 402 du so du du de tra loi.
+        max_output_tokens=int(os.getenv("LLM_MAX_TOKENS", "1024")),
         embedding_model="sentence-transformers/all-MiniLM-L6-v2",
         baseline_collection_name="papers-baseline",
         corrupted_collection_name="papers-corrupted",

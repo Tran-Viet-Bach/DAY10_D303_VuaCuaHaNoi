@@ -1,0 +1,30 @@
+{
+  "provider": "openai",
+  "model": "gpt-4.1-mini",
+  "collection": "papers-baseline",
+  "cases": [
+    {
+      "question": "Which indexed paper is about roof design compliance? Give its paper_id.",
+      "tools_called": [
+        "semantic_search_papers"
+      ],
+      "paper_ids_in_tool_output": [
+        "10.3390/buildings16132637"
+      ],
+      "answer": "The indexed paper about roof design compliance is titled \"An Agentic AI System for Roof Design Compliance Using Computer Vision, Retrieval-Augmented Generation and Large Language Models.\" Its paper_id is 10.3390/buildings16132637."
+    },
+    {
+      "question": "What does the indexed corpus say about quantum error correction thresholds?",
+      "tools_called": [
+        "semantic_search_papers"
+      ],
+      "paper_ids_in_tool_output": [
+        "10.21079/11681/50309",
+        "10.21203/rs.3.rs-9882260/v1",
+        "10.3390/app16052244",
+        "10.70121/001c.158711"
+      ],
+      "answer": "The indexed corpus does not contain relevant information specifically about quantum error correction thresholds. The search results mostly pertain to topics related to large language models, retrieval-augmented generation, and reasoning reliability, but not quantum error correction thresholds. If you want, I can try a different search or help with another question."
+    }
+  ]
+}
